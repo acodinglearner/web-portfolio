@@ -21,7 +21,6 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    /* width: 100%; */
     width: 99%;
 }
 .top-banner{
@@ -34,7 +33,6 @@ section{
 }
 .link-button{
     text-decoration: none;
-    /* background-color: orange; */
     background-image: linear-gradient(45deg, lightSalmon, tomato);
     padding: 10px 20px;
     border-radius: 5px;
